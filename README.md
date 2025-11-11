@@ -2,7 +2,7 @@
 
 A classic memory game where players must repeat an ever-growing sequence of colors and sounds. This web-based version is built with HTML, CSS, and JavaScript and features a colorful interface and interactive gameplay.
 
-Features
+**Features**
 
 Interactive colored buttons with visual feedback
 
@@ -14,7 +14,7 @@ Level display to track progress
 
 “Game Over” detection for wrong inputs
 
-How to Play
+**HOW TO PLAY**
 
 Press Start to begin the game.
 
@@ -26,10 +26,10 @@ The sequence grows with each successful round.
 
 Make a mistake, and the game ends!
 
-Tech Stack
+**Tech Stack**
 
-HTML – Structure of the game
+**HTML** – Structure of the game
 
-CSS – Styling and animations
+**CSS**- Styling and animations
 
-JavaScript – Game logic and interactivity
+**JavaScript** – Game logic and interactivity
